@@ -4,4 +4,5 @@ git status
 git add . 
 git status
 git commit -m "alterando o arquivo texto
+
 git push
